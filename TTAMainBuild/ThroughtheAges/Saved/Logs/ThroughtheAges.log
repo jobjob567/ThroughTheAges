@@ -1,0 +1,1702 @@
+﻿Log file open, 12/08/20 19:26:07
+LogInit: Display: Running engine for game: ThroughtheAges
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.219954
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Engine.ini]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Engine.ini]
+[2020.12.09-00.26.07:814][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Engine.ini]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.09-00.26.07:814][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Engine.ini]
+[2020.12.09-00.26.07:814][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.09-00.26.07:815][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Engine.ini]
+[2020.12.09-00.26.07:815][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Engine.ini]
+[2020.12.09-00.26.07:822][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.09-00.26.07:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.09-00.26.07:823][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.09-00.26.07:823][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.09-00.26.07:823][  0]LogHAL: Display: Platform has ~ 16 GB [17055158272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.09-00.26.07:823][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.09-00.26.07:823][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.09-00.26.07:823][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Scalability.ini]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.09-00.26.07:824][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.09-00.26.07:825][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.09-00.26.07:825][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.09-00.26.07:825][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.09-00.26.07:825][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/2020/GameJam/ThroughtheAges/Saved/Config/Windows/Engine.ini]
+[2020.12.09-00.26.07:825][  0]LogInit: Computer: JOBS-LAPTOP
+[2020.12.09-00.26.07:825][  0]LogInit: User: Job
+[2020.12.09-00.26.07:825][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.09-00.26.07:825][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.09-00.26.07:825][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.09-00.26.07:825][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.09-00.26.07:825][  0]LogMemory: Process Physical Memory: 115.75 MB used, 115.75 MB peak
+[2020.12.09-00.26.07:825][  0]LogMemory: Process Virtual Memory: 96.66 MB used, 96.66 MB peak
+[2020.12.09-00.26.07:825][  0]LogMemory: Physical Memory: 6299.06 MB used,  9966.01 MB free, 16265.07 MB total
+[2020.12.09-00.26.07:825][  0]LogMemory: Virtual Memory: 5149.30 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2020.12.09-00.26.07:831][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.09-00.26.07:867][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.09-00.26.07:869][  0]LogInit: Using OS detected language (en-US).
+[2020.12.09-00.26.07:869][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.09-00.26.07:873][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.09-00.26.08:084][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.09-00.26.08:134][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.09-00.26.08:135][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.09-00.26.08:350][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.09-00.26.08:350][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.09-00.26.08:350][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.09-00.26.08:350][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.09-00.26.09:393][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.12.09-00.26.09:393][  0]LogD3D11RHI:       4021/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.09-00.26.09:427][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.12.09-00.26.09:427][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.09-00.26.09:429][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.09-00.26.09:429][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.09-00.26.09:429][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.09-00.26.09:474][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.09-00.26.09:474][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.12.09-00.26.09:474][  0]LogWindows: EnumDisplayDevices:
+[2020.12.09-00.26.09:475][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.12.09-00.26.09:475][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.12.09-00.26.09:475][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.09-00.26.09:475][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.12.09-00.26.09:475][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.12.09-00.26.09:475][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.12.09-00.26.09:475][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.12.09-00.26.09:475][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.12.09-00.26.09:540][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.09-00.26.09:542][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.12.09-00.26.09:542][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.09-00.26.09:542][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.09-00.26.09:558][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.09-00.26.09:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.09-00.26.09:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.09-00.26.09:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.09-00.26.09:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.09-00.26.09:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.09-00.26.09:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.09-00.26.09:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.09-00.26.09:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.09-00.26.09:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.09-00.26.09:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.09-00.26.09:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.09-00.26.09:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.09-00.26.09:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.09-00.26.09:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.09-00.26.10:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.09-00.26.10:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.09-00.26.10:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.09-00.26.10:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.09-00.26.10:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.09-00.26.10:058][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.09-00.26.10:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.09-00.26.10:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.09-00.26.10:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.09-00.26.10:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.09-00.26.10:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.09-00.26.10:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.09-00.26.10:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.09-00.26.10:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.09-00.26.10:145][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.09-00.26.10:154][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.09-00.26.10:223][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (D:/2020/GameJam/ThroughtheAges/Intermediate/Shaders/WorkingDirectory/16200/).
+[2020.12.09-00.26.10:223][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Job/AppData/Local/Temp/UnrealShaderWorkingDir/758251654955060B302D888C2EBDD31D/'.
+[2020.12.09-00.26.10:224][  0]LogXGEController: Cleaning working directory: C:/Users/Job/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.09-00.26.10:224][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.09-00.26.10:224][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.09-00.26.10:224][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.09-00.26.11:141][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.09-00.26.11:210][  0]LogDerivedDataCache: Loaded boot cache 0.07s 76MB C:/Users/Job/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.09-00.26.11:210][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Job/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.09-00.26.11:210][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/2020/GameJam/ThroughtheAges/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.09-00.26.11:210][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.09-00.26.11:210][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/2020/GameJam/ThroughtheAges/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.09-00.26.11:210][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.09-00.26.11:222][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.09-00.26.11:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.09-00.26.11:222][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.09-00.26.11:223][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Job/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.09-00.26.11:223][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.09-00.26.11:223][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.09-00.26.11:280][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.09-00.26.11:280][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.09-00.26.11:310][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.12.09-00.26.11:564][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.09-00.26.12:962][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.09-00.26.12:962][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.09-00.26.12:962][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.09-00.26.12:962][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.09-00.26.12:962][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.09-00.26.12:983][  0]LogNetVersion: ThroughtheAges 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3457558730)
+[2020.12.09-00.26.13:508][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000026CAA10D400), frame # 0
+[2020.12.09-00.26.13:508][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026CAA072AC0), frame # 0
+[2020.12.09-00.26.13:510][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026CAA0AE600), frame # 0
+[2020.12.09-00.26.14:750][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 1.232598 seconds
+[2020.12.09-00.26.14:755][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.09-00.26.14:755][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.09-00.26.14:755][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.09-00.26.15:067][  0]LogPython: Using Python 2.7.14
+[2020.12.09-00.26.16:208][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.09-00.26.16:213][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.09-00.26.16:369][  0]SourceControl: Source control is disabled
+[2020.12.09-00.26.16:369][  0]SourceControl: Source control is disabled
+[2020.12.09-00.26.16:372][  0]SourceControl: Source control is disabled
+[2020.12.09-00.26.16:375][  0]SourceControl: Source control is disabled
+[2020.12.09-00.26.16:383][  0]SourceControl: Source control is disabled
+[2020.12.09-00.26.17:773][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.09-00.26.17:809][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.09-00.26.17:809][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.09-00.26.17:891][  0]LogOcInput: OculusInput pre-init called
+[2020.12.09-00.26.17:903][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.09-00.26.17:903][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.09-00.26.18:355][  0]LogEngine: Initializing Engine...
+[2020.12.09-00.26.18:356][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.09-00.26.18:356][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.09-00.26.18:357][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.09-00.26.18:487][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.09-00.26.18:498][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.09-00.26.18:498][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026CB91E5600), frame # 0
+[2020.12.09-00.26.18:498][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026CB9206AC0), frame # 0
+[2020.12.09-00.26.18:519][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.09-00.26.18:519][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.09-00.26.18:519][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.09-00.26.18:519][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.09-00.26.18:519][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.09-00.26.18:519][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.09-00.26.18:519][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.09-00.26.18:519][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.09-00.26.18:520][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.09-00.26.18:520][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.09-00.26.18:539][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.09-00.26.18:539][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.09-00.26.18:635][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.09-00.26.18:638][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.09-00.26.18:641][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.09-00.26.18:641][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.09-00.26.18:642][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.09-00.26.18:643][  0]LogInit: FAudioDevice initialized.
+[2020.12.09-00.26.18:644][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.09-00.26.18:824][  0]LogDerivedDataCache: Saved boot cache 0.18s 76MB C:/Users/Job/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.09-00.26.18:824][  0]LogInit: Texture streaming: Enabled
+[2020.12.09-00.26.18:841][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.09-00.26.18:841][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.09-00.26.18:843][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.09-00.26.20:403][  0]LogInit: Transaction tracking system initialized
+[2020.12.09-00.26.20:429][  0]BlueprintLog: New page: Editor Load
+[2020.12.09-00.26.20:519][  0]LocalizationService: Localization service is disabled
+[2020.12.09-00.26.20:737][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.09-00.26.20:737][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.09-00.26.20:909][  0]LogFileCache: Scanning file cache for directory 'D:/2020/GameJam/ThroughtheAges/Content/' took 0.01s
+[2020.12.09-00.26.21:160][  0]SourceControl: Source control is disabled
+[2020.12.09-00.26.21:160][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.511
+[2020.12.09-00.26.21:160][  0]Cmd: MAP LOAD FILE="D:/2020/GameJam/ThroughtheAges/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.09-00.26.21:160][  0]LogEditorServer: Warning: Can't find file 'D:/2020/GameJam/ThroughtheAges/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.12.09-00.26.21:160][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.09-00.26.21:160][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2020.12.09-00.26.21:160][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.001
+[2020.12.09-00.26.21:162][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.514
+[2020.12.09-00.26.21:325][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.09-00.26.21:333][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.09-00.26.21:341][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.09-00.26.21:349][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.09-00.26.21:356][  0]LogCollectionManager: Loaded 0 collections in 0.001928 seconds
+[2020.12.09-00.26.21:373][  0]LogFileCache: Scanning file cache for directory 'D:/2020/GameJam/ThroughtheAges/Saved/Collections/' took 0.00s
+[2020.12.09-00.26.21:373][  0]LogFileCache: Scanning file cache for directory 'D:/2020/GameJam/ThroughtheAges/Content/Developers/Job/Collections/' took 0.00s
+[2020.12.09-00.26.21:373][  0]LogFileCache: Scanning file cache for directory 'D:/2020/GameJam/ThroughtheAges/Content/Collections/' took 0.00s
+[2020.12.09-00.26.21:373][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3446 classes and 828 folders.
+[2020.12.09-00.26.21:379][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.09-00.26.21:439][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.09-00.26.21:440][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.12.09-00.26.21:560][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.09-00.26.21:563][  0]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.09-00.26.21:572][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.09-00.26.21:656][  0]LogRenderer: Reallocating scene render targets to support 816x404 Format 10 NumSamples 1 (Frame:1).
+[2020.12.09-00.26.21:808][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.09-00.26.21:808][  0]LogLoad: (Engine Initialization) Total time: 16.16 seconds
+[2020.12.09-00.26.21:808][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.09-00.26.21:867][  0]LogAssetRegistry: Asset discovery search completed in 10.5595 seconds
+[2020.12.09-00.26.21:872][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.12.09-00.26.21:873][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.09-00.26.21:913][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.09-00.26.57:119][ 52]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.09-00.26.57:165][ 52]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.09-00.26.57:406][ 52]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.12.09-00.26.58:386][ 52]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.09-00.26.58:540][ 53]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.09-00.31.41:205][303]LogMetaData: Removing '/Game/GameJam/Sandbag.Sandbag:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Sandbag.PackageMetaData'
+[2020.12.09-00.31.41:205][303]LogMetaData: Removing '/Game/GameJam/Sandbag.Sandbag_C' ref from Metadata '/Game/Sandbag.PackageMetaData'
+[2020.12.09-00.31.41:205][303]LogMetaData: Removing '/Game/GameJam/Sandbag.Sandbag:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Sandbag.PackageMetaData'
+[2020.12.09-00.31.41:205][303]LogMetaData: Removing '/Game/GameJam/Sandbag.Sandbag:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Sandbag.PackageMetaData'
+[2020.12.09-00.31.41:206][303]LogMetaData: Removing '/Game/GameJam/Sandbag.Sandbag:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Sandbag.PackageMetaData'
+[2020.12.09-00.31.41:206][303]LogMetaData: Removing '/Game/GameJam/Sandbag.SKEL_Sandbag_C:ReceiveBeginPlay' ref from Metadata '/Game/Sandbag.PackageMetaData'
+[2020.12.09-00.31.41:206][303]LogMetaData: Removing '/Game/GameJam/Sandbag.SKEL_Sandbag_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Sandbag.PackageMetaData'
+[2020.12.09-00.31.41:206][303]LogMetaData: Removing '/Game/GameJam/Sandbag.SKEL_Sandbag_C:ReceiveTick' ref from Metadata '/Game/Sandbag.PackageMetaData'
+[2020.12.09-00.31.41:206][303]LogMetaData: Removing '/Game/GameJam/Sandbag.SKEL_Sandbag_C:UserConstructionScript' ref from Metadata '/Game/Sandbag.PackageMetaData'
+[2020.12.09-00.31.41:206][303]LogMetaData: Removing '/Game/GameJam/Sandbag.SKEL_Sandbag_C' ref from Metadata '/Game/Sandbag.PackageMetaData'
+[2020.12.09-00.31.41:362][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/11799-normal" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/11799-normal.uasset" SILENT=true
+[2020.12.09-00.31.41:476][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/11799-normalBD4EDBE94B3ABC36F4F53D9EDC0393D9.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/11799-normal.uasset'
+[2020.12.09-00.31.41:603][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/M_Rock_Sandstone" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/M_Rock_Sandstone.uasset" SILENT=true
+[2020.12.09-00.31.41:701][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_Rock_SandstoneD2B4753F476B64CC52BA2BAC569D4323.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/M_Rock_Sandstone.uasset'
+[2020.12.09-00.31.41:823][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/M_sandbag" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/M_sandbag.uasset" SILENT=true
+[2020.12.09-00.31.41:926][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_sandbag8F999EB74291C60C2B1C5D8DD4A2D35B.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/M_sandbag.uasset'
+[2020.12.09-00.31.42:055][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/M_Tan" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/M_Tan.uasset" SILENT=true
+[2020.12.09-00.31.42:097][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_Tan8CC84E99498E7179C0158E83D9F1928E.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/M_Tan.uasset'
+[2020.12.09-00.31.42:191][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Tan" FILE="D:/2020/GameJam/ThroughtheAges/Content/M_Tan.uasset" SILENT=true
+[2020.12.09-00.31.42:236][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_Tan147330764B370C0D1F027FA64D9A0CAD.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/M_Tan.uasset'
+[2020.12.09-00.31.42:343][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Sandbag" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Sandbag.uasset" SILENT=true
+[2020.12.09-00.31.42:447][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SandbagEE70FFB7492DF3317B70608A3D152BD9.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Sandbag.uasset'
+[2020.12.09-00.31.42:521][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sandbag" FILE="D:/2020/GameJam/ThroughtheAges/Content/Sandbag.uasset" SILENT=true
+[2020.12.09-00.31.42:573][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SandbagB92872D04D385574ED4C6CB70469E034.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/Sandbag.uasset'
+[2020.12.09-00.31.42:733][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/SandFloorInst" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/SandFloorInst.uasset" SILENT=true
+[2020.12.09-00.31.42:769][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SandFloorInst7CEC38694556644128CBA09F04FCD4E6.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/SandFloorInst.uasset'
+[2020.12.09-00.31.43:905][303]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/11799-normal.11799-normal'
+[2020.12.09-00.31.43:907][303]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/M_Rock_Sandstone.M_Rock_Sandstone'
+[2020.12.09-00.31.43:907][303]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/M_sandbag.M_sandbag'
+[2020.12.09-00.31.43:907][303]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/SandFloorInst.SandFloorInst'
+[2020.12.09-00.31.43:957][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.12.09-00.31.43:982][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.12.09-00.31.44:003][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.12.09-00.31.44:021][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.12.09-00.31.44:054][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.12.09-00.31.44:076][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.09-00.31.44:100][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Rock_Sandstone" FILE="D:/2020/GameJam/ThroughtheAges/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" SILENT=true
+[2020.12.09-00.31.44:149][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_Rock_SandstoneA94358474D40816ADACC2384DA6D3812.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/StarterContent/Materials/M_Rock_Sandstone.uasset'
+[2020.12.09-00.31.44:249][303]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating Texture2D /Game/GameJam/11799-normal.11799-normal
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating Material /Game/GameJam/M_Rock_Sandstone.M_Rock_Sandstone
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating Material /Game/GameJam/M_sandbag.M_sandbag
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating Material /Game/GameJam/M_Tan.M_Tan
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating ObjectRedirector /Game/M_Tan.M_Tan
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Sandbag.Sandbag
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating ObjectRedirector /Game/Sandbag.Sandbag_C
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating ObjectRedirector /Game/Sandbag.Default__Sandbag_C
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating ObjectRedirector /Game/Sandbag.Sandbag
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/GameJam/SandFloorInst.SandFloorInst
+[2020.12.09-00.31.44:249][303]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Rock_Sandstone.M_Rock_Sandstone
+[2020.12.09-00.31.58:433][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Materials/M_Rock_Sandstone" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/M_Rock_Sandstone.uasset" SILENT=true
+[2020.12.09-00.31.58:527][ 48]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_Rock_SandstoneC13132A44D62D288B871DA9DF4E3536E.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/M_Rock_Sandstone.uasset'
+[2020.12.09-00.31.58:635][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Materials/M_sandbag" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/M_sandbag.uasset" SILENT=true
+[2020.12.09-00.31.58:689][ 48]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_sandbag16E067C7456CC52A384D2E982CB6D058.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/M_sandbag.uasset'
+[2020.12.09-00.31.58:815][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Materials/M_Tan" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/M_Tan.uasset" SILENT=true
+[2020.12.09-00.31.58:864][ 48]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_Tan58A9FF6748409D4773C5FA825E40602C.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/M_Tan.uasset'
+[2020.12.09-00.31.58:978][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Materials/SandFloorInst" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/SandFloorInst.uasset" SILENT=true
+[2020.12.09-00.31.59:030][ 48]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SandFloorInst2F51EDD3458A6A9229DB219B20541087.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/SandFloorInst.uasset'
+[2020.12.09-00.31.59:806][ 48]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/GameJam/M_Rock_Sandstone.M_Rock_Sandstone'
+[2020.12.09-00.31.59:807][ 48]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/GameJam/M_sandbag.M_sandbag'
+[2020.12.09-00.31.59:808][ 48]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/GameJam/M_Tan.M_Tan'
+[2020.12.09-00.31.59:808][ 48]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/GameJam/SandFloorInst.SandFloorInst'
+[2020.12.09-00.31.59:855][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.12.09-00.31.59:876][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.12.09-00.31.59:897][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.12.09-00.31.59:918][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.12.09-00.31.59:947][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.12.09-00.31.59:968][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.12.09-00.31.59:999][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Rock_Sandstone" FILE="D:/2020/GameJam/ThroughtheAges/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" SILENT=true
+[2020.12.09-00.32.00:025][ 48]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_Rock_SandstoneAFA1304D43A2D4F6CF998999B0866E24.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/StarterContent/Materials/M_Rock_Sandstone.uasset'
+[2020.12.09-00.32.00:061][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Sandbag" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Sandbag.uasset" SILENT=true
+[2020.12.09-00.32.00:142][ 48]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/Sandbag8B797B9B4C89BEF2229179B28063FCAC.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Sandbag.uasset'
+[2020.12.09-00.32.00:221][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Tan" FILE="D:/2020/GameJam/ThroughtheAges/Content/M_Tan.uasset" SILENT=true
+[2020.12.09-00.32.00:266][ 48]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_Tan734599CA455A676C6B3F088B620C21AE.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/M_Tan.uasset'
+[2020.12.09-00.32.00:320][ 48]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.32.00:320][ 48]LogContentValidation: Display: Validating Material /Game/GameJam/Materials/M_Rock_Sandstone.M_Rock_Sandstone
+[2020.12.09-00.32.00:320][ 48]LogContentValidation: Display: Validating Material /Game/GameJam/Materials/M_sandbag.M_sandbag
+[2020.12.09-00.32.00:320][ 48]LogContentValidation: Display: Validating Material /Game/GameJam/Materials/M_Tan.M_Tan
+[2020.12.09-00.32.00:321][ 48]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/GameJam/Materials/SandFloorInst.SandFloorInst
+[2020.12.09-00.32.00:321][ 48]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Rock_Sandstone.M_Rock_Sandstone
+[2020.12.09-00.32.00:321][ 48]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Sandbag.Sandbag
+[2020.12.09-00.32.00:321][ 48]LogContentValidation: Display: Validating ObjectRedirector /Game/M_Tan.M_Tan
+[2020.12.09-00.32.01:202][ 94]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/GameJam/11799-normal.11799-normal
+[2020.12.09-00.32.01:247][ 94]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.12.09-00.32.03:087][172]LogSlate: Window '11799-normal' being destroyed
+[2020.12.09-00.32.03:098][172]LogSlate: Window '11799-normal' being destroyed
+[2020.12.09-00.32.03:125][172]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.32.03:125][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.09-00.32.06:924][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Materials/11799-normal" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/11799-normal.uasset" SILENT=true
+[2020.12.09-00.32.07:096][260]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/11799-normal83C8938043574328338247AEDB6A895A.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/11799-normal.uasset'
+[2020.12.09-00.32.07:431][260]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/GameJam/11799-normal.11799-normal'
+[2020.12.09-00.32.07:515][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.12.09-00.32.07:566][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.12.09-00.32.07:581][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.12.09-00.32.07:600][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Materials/M_Tan" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/M_Tan.uasset" SILENT=true
+[2020.12.09-00.32.07:633][260]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_TanA630E11D4DBC97991FE4F2AC742955AD.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Materials/M_Tan.uasset'
+[2020.12.09-00.32.07:731][260]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.32.07:731][260]LogContentValidation: Display: Validating Texture2D /Game/GameJam/Materials/11799-normal.11799-normal
+[2020.12.09-00.32.07:731][260]LogContentValidation: Display: Validating Material /Game/GameJam/Materials/M_Tan.M_Tan
+[2020.12.09-00.33.34:443][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/SoldierEnemy.SoldierEnemy_C' ref from Metadata '/Game/TopDownBP/Blueprints/SoldierEnemy.PackageMetaData'
+[2020.12.09-00.33.34:443][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/SoldierEnemy.SKEL_SoldierEnemy_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/SoldierEnemy.PackageMetaData'
+[2020.12.09-00.33.34:443][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/SoldierEnemy.SKEL_SoldierEnemy_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/SoldierEnemy.PackageMetaData'
+[2020.12.09-00.33.34:443][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/SoldierEnemy.SKEL_SoldierEnemy_C' ref from Metadata '/Game/TopDownBP/Blueprints/SoldierEnemy.PackageMetaData'
+[2020.12.09-00.33.34:443][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/SoldierEnemy.SoldierEnemy_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/SoldierEnemy.PackageMetaData'
+[2020.12.09-00.33.34:520][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownCharacter.TopDownCharacter_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.12.09-00.33.34:520][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownCharacter.SKEL_TopDownCharacter_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.12.09-00.33.34:520][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownCharacter.SKEL_TopDownCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.12.09-00.33.34:520][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownCharacter.SKEL_TopDownCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_0' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.12.09-00.33.34:520][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownCharacter.SKEL_TopDownCharacter_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.12.09-00.33.34:520][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownCharacter.SKEL_TopDownCharacter_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.12.09-00.33.34:520][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownCharacter.TopDownCharacter_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.12.09-00.33.34:520][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownCharacter.TopDownCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.12.09-00.33.34:582][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownController.TopDownController_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.12.09-00.33.34:582][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownController.SKEL_TopDownController_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.12.09-00.33.34:582][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownController.SKEL_TopDownController_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.12.09-00.33.34:582][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownController.SKEL_TopDownController_C:MoveToHitLocation' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.12.09-00.33.34:582][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownController.SKEL_TopDownController_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.12.09-00.33.34:582][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownController.TopDownController_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.12.09-00.33.34:582][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownController.TopDownController_C:MoveToHitLocation' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.12.09-00.33.34:660][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownGameMode.TopDownGameMode_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownGameMode.PackageMetaData'
+[2020.12.09-00.33.34:660][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownGameMode.SKEL_TopDownGameMode_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownGameMode.PackageMetaData'
+[2020.12.09-00.33.34:660][307]LogMetaData: Removing '/Game/GameJam/Character/Blueprint/TopDownGameMode.SKEL_TopDownGameMode_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownGameMode.PackageMetaData'
+[2020.12.09-00.33.34:723][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/M_Cursor_Decal" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/M_Cursor_Decal.uasset" SILENT=true
+[2020.12.09-00.33.34:819][307]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_Cursor_Decal54C962D94B4F7782C6D5B9A0796ED5E6.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/M_Cursor_Decal.uasset'
+[2020.12.09-00.33.34:946][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/SoldierEnemy" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/SoldierEnemy.uasset" SILENT=true
+[2020.12.09-00.33.35:062][307]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SoldierEnemy8C0F11E54C1624FD5CE7CDA3E01F0BDE.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/SoldierEnemy.uasset'
+[2020.12.09-00.33.35:150][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/SoldierEnemy" FILE="D:/2020/GameJam/ThroughtheAges/Content/TopDownBP/Blueprints/SoldierEnemy.uasset" SILENT=true
+[2020.12.09-00.33.35:190][307]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SoldierEnemyE07B05D742F09526DB17DDB1A2865CCA.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/TopDownBP/Blueprints/SoldierEnemy.uasset'
+[2020.12.09-00.33.35:300][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/TopDownCharacter" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownCharacter.uasset" SILENT=true
+[2020.12.09-00.33.35:381][307]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/TopDownCharacterCAF655ED48D170EC50EFB89FA630F6D0.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownCharacter.uasset'
+[2020.12.09-00.33.35:454][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="D:/2020/GameJam/ThroughtheAges/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2020.12.09-00.33.35:537][307]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/TopDownCharacter34FE2C7B4557410BC4829597772856AA.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.12.09-00.33.35:622][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/TopDownController" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownController.uasset" SILENT=true
+[2020.12.09-00.33.35:683][307]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/TopDownControllerBFD7EE1241BA1723619466ADA0603673.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownController.uasset'
+[2020.12.09-00.33.35:760][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/TopDownGameMode" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownGameMode.uasset" SILENT=true
+[2020.12.09-00.33.35:808][307]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/TopDownGameMode80CBBF9C44C19F14EA392086F92E14B2.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownGameMode.uasset'
+[2020.12.09-00.33.35:878][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownGameMode" FILE="D:/2020/GameJam/ThroughtheAges/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.09-00.33.35:928][307]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/TopDownGameModeC2DA379A4847FC66158CFFB6D8F8F423.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2020.12.09-00.33.36:381][307]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/TopDownBP/Blueprints/M_Cursor_Decal.M_Cursor_Decal'
+[2020.12.09-00.33.36:385][307]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/TopDownBP/Blueprints/TopDownController.TopDownController'
+[2020.12.09-00.33.36:423][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.12.09-00.33.36:444][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.09-00.33.36:474][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.12.09-00.33.36:491][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.12.09-00.33.36:539][307]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating Material /Game/GameJam/Character/Blueprint/M_Cursor_Decal.M_Cursor_Decal
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Character/Blueprint/SoldierEnemy.SoldierEnemy
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/SoldierEnemy.SoldierEnemy
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/SoldierEnemy.Default__SoldierEnemy_C
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/SoldierEnemy.SoldierEnemy_C
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Character/Blueprint/TopDownCharacter.TopDownCharacter
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownCharacter.Default__TopDownCharacter_C
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Character/Blueprint/TopDownController.TopDownController
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Character/Blueprint/TopDownGameMode.TopDownGameMode
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownGameMode.Default__TopDownGameMode_C
+[2020.12.09-00.33.36:539][307]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2020.12.09-00.34.10:996][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.12.09-00.34.10:999][300]LogMetaData: Removing '/Game/GameJam/Maps/MainMenu.MainMenu_C' ref from Metadata '/Game/TopDownBP/Maps/MainMenu.PackageMetaData'
+[2020.12.09-00.34.10:999][300]LogMetaData: Removing '/Game/GameJam/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDownBP/Maps/MainMenu.PackageMetaData'
+[2020.12.09-00.34.10:999][300]LogMetaData: Removing '/Game/GameJam/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDownBP/Maps/MainMenu.PackageMetaData'
+[2020.12.09-00.34.10:999][300]LogMetaData: Removing '/Game/GameJam/Maps/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/TopDownBP/Maps/MainMenu.PackageMetaData'
+[2020.12.09-00.34.11:142][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.12.09-00.34.11:143][300]LogMetaData: Removing '/Game/GameJam/Maps/MainLevel.MainLevel_C' ref from Metadata '/Game/TopDownBP/Maps/MainLevel.PackageMetaData'
+[2020.12.09-00.34.11:143][300]LogMetaData: Removing '/Game/GameJam/Maps/MainLevel.SKEL_MainLevel_C' ref from Metadata '/Game/TopDownBP/Maps/MainLevel.PackageMetaData'
+[2020.12.09-00.34.11:174][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Maps/MainLevel_BuiltData" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel_BuiltData.uasset" SILENT=true
+[2020.12.09-00.34.11:322][300]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainLevel_BuiltData0B25D9BD43B363BA07B81D8DECA69EF4.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel_BuiltData.uasset'
+[2020.12.09-00.34.11:412][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Maps/MainMenu" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.09-00.34.11:484][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.12.09-00.34.11:495][300]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainMenuFBD1A5BF435E36EC044B588DDF5098D6.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainMenu.umap'
+[2020.12.09-00.34.11:582][300]LogFileHelpers: Saving map 'MainMenu' took 0.171
+[2020.12.09-00.34.11:583][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Maps/MainLevel" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.09-00.34.11:717][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.12.09-00.34.12:084][300]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainLevelD599F166402B345F253EB0B93C9226DF.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel.umap'
+[2020.12.09-00.34.12:317][300]LogFileHelpers: Saving map 'MainLevel' took 0.735
+[2020.12.09-00.34.12:914][300]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/TopDownBP/Maps/MainLevel_BuiltData.MainLevel_BuiltData'
+[2020.12.09-00.34.12:915][300]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/TopDownBP/Maps/MainMenu.MainMenu'
+[2020.12.09-00.34.12:918][300]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/TopDownBP/Maps/MainLevel.MainLevel'
+[2020.12.09-00.34.12:958][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.12.09-00.34.12:975][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.12.09-00.34.12:993][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.12.09-00.34.13:022][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.12.09-00.34.13:040][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.09-00.34.13:074][300]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.34.13:075][300]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GameJam/Maps/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.12.09-00.34.13:075][300]LogContentValidation: Display: Validating World /Game/GameJam/Maps/MainMenu.MainMenu
+[2020.12.09-00.34.13:075][300]LogContentValidation: Display: Validating World /Game/GameJam/Maps/MainLevel.MainLevel
+[2020.12.09-00.34.54:094][696]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameJam/Maps/MainLevel.MainLevel
+[2020.12.09-00.34.54:162][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.12.09-00.34.58:874][696]LogSlate: Window 'Save Content' being destroyed
+[2020.12.09-00.34.58:937][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/SoldierEnemy" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/SoldierEnemy.uasset" SILENT=true
+[2020.12.09-00.34.59:824][696]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SoldierEnemy6221584140847A99BBAD4792045966CC.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/SoldierEnemy.uasset'
+[2020.12.09-00.34.59:951][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/TopDownCharacter" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownCharacter.uasset" SILENT=true
+[2020.12.09-00.35.00:090][696]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/TopDownCharacterD10BF8CD40355E1EFA9F6089958DC012.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownCharacter.uasset'
+[2020.12.09-00.35.00:170][696]Cmd: MAP LOAD FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.09-00.35.00:170][696]LightingResults: New page: Lighting Build
+[2020.12.09-00.35.00:176][696]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 6 classes and 0 folders.
+[2020.12.09-00.35.00:176][696]LoadErrors: New page: Loading map: MainLevel.umap
+[2020.12.09-00.35.00:201][696]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.35.00:201][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.09-00.35.00:201][696]MapCheck: New page: Map Check
+[2020.12.09-00.35.00:201][696]LightingResults: New page: Lighting Build
+[2020.12.09-00.35.00:244][696]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026CB91E5600), frame # 23696
+[2020.12.09-00.35.00:244][696]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026CB9206AC0), frame # 23696
+[2020.12.09-00.35.00:260][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.12.09-00.35.00:282][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.12.09-00.35.00:301][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.12.09-00.35.00:487][696]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.09-00.35.00:487][696]LogAIModule: Creating AISystem for world MainLevel
+[2020.12.09-00.35.00:487][696]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026D1041C200), frame # 23696
+[2020.12.09-00.35.00:487][696]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026D2137FD80), frame # 23696
+[2020.12.09-00.35.00:490][696]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2020.12.09-00.35.00:513][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.12.09-00.35.00:545][696]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.09-00.35.00:545][696]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2020.12.09-00.35.00:545][696]LogFileHelpers: Loading map 'MainLevel' took 0.375
+[2020.12.09-00.35.00:594][696]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.35.00:594][696]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Character/Blueprint/SoldierEnemy.SoldierEnemy
+[2020.12.09-00.35.00:594][696]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Character/Blueprint/TopDownCharacter.TopDownCharacter
+[2020.12.09-00.35.06:312][969]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.09-00.35.06:332][969]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.09-00.35.07:150][969]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2020.12.09-00.35.07:176][969]LogPlayLevel: [PlayLevel] Compiling Sandbag before play...
+[2020.12.09-00.35.07:236][969]LogPlayLevel: [PlayLevel] Compiling SoldierEnemy before play...
+[2020.12.09-00.35.07:328][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.12.09-00.35.07:329][969]LogPlayLevel: PlayLevel: Blueprint regeneration took 997 ms (3 blueprints)
+[2020.12.09-00.35.07:329][969]PIE: New page: PIE session: MainLevel (Dec 8, 2020, 2:35:07 PM)
+[2020.12.09-00.35.07:331][969]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.09-00.35.07:332][969]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.09-00.35.07:332][969]LogPlayLevel: Creating play world package: /Game/GameJam/Maps/UEDPIE_0_MainLevel
+[2020.12.09-00.35.07:350][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017976s)
+[2020.12.09-00.35.07:352][969]LogAIModule: Creating AISystem for world MainLevel
+[2020.12.09-00.35.07:352][969]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026CE42A9A00), frame # 23969
+[2020.12.09-00.35.07:352][969]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026CE268CCC0), frame # 23969
+[2020.12.09-00.35.07:353][969]LogPlayLevel: PIE: World Init took: (0.002591s)
+[2020.12.09-00.35.07:353][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Maps/MainLevel.MainLevel to /Game/GameJam/Maps/UEDPIE_0_MainLevel.MainLevel (0.020897s)
+[2020.12.09-00.35.07:396][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.12.09-00.35.07:397][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.09-00.35.07:397][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.09-00.35.07:397][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.09-00.35.07:397][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.09-00.35.07:397][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.09-00.35.07:397][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.09-00.35.07:397][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.09-00.35.07:397][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.09-00.35.07:398][969]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.09-00.35.07:398][969]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.09-00.35.07:402][969]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.09-00.35.07:402][969]LogAudioMixer: Display: 1: FrontRight
+[2020.12.09-00.35.07:477][969]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.09-00.35.07:477][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.09-00.35.07:477][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.09-00.35.07:477][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.09-00.35.07:477][969]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.09-00.35.07:492][969]LogInit: FAudioDevice initialized.
+[2020.12.09-00.35.07:501][969]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.09-00.35.07:510][969]LogWorld: Bringing World /Game/GameJam/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.12.08-19.35.07
+[2020.12.09-00.35.07:511][969]LogWorld: Bringing up level for play took: 0.008934
+[2020.12.09-00.35.07:512][969]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.12.09-00.35.07:525][969]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.09-00.35.07:526][969]PIE: Server logged in
+[2020.12.09-00.35.07:527][969]PIE: Play in editor total start time 1.196 seconds.
+[2020.12.09-00.35.12:814][255]LogRenderer: Reallocating scene render targets to support 816x408 Format 10 NumSamples 1 (Frame:276).
+[2020.12.09-00.35.12:885][256]LogRenderer: Reallocating scene render targets to support 816x424 Format 10 NumSamples 1 (Frame:277).
+[2020.12.09-00.35.12:944][257]LogRenderer: Reallocating scene render targets to support 816x440 Format 10 NumSamples 1 (Frame:278).
+[2020.12.09-00.35.13:009][258]LogRenderer: Reallocating scene render targets to support 816x444 Format 10 NumSamples 1 (Frame:279).
+[2020.12.09-00.35.13:071][259]LogRenderer: Reallocating scene render targets to support 816x452 Format 10 NumSamples 1 (Frame:280).
+[2020.12.09-00.35.13:137][260]LogRenderer: Reallocating scene render targets to support 816x460 Format 10 NumSamples 1 (Frame:281).
+[2020.12.09-00.35.13:198][261]LogRenderer: Reallocating scene render targets to support 816x468 Format 10 NumSamples 1 (Frame:282).
+[2020.12.09-00.36.05:057][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.12.09-00.36.06:656][303]LogSlate: Window 'Save Content' being destroyed
+[2020.12.09-00.36.06:665][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Maps/MainLevel" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.09-00.36.07:682][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.12.09-00.36.08:251][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainLevel4DC2CA3A4FD44A45C80EF89022C70CB9.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel.umap'
+[2020.12.09-00.36.08:561][303]LogFileHelpers: Saving map 'MainLevel' took 1.896
+[2020.12.09-00.36.08:561][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Maps/MainLevel_BuiltData" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel_BuiltData.uasset" SILENT=true
+[2020.12.09-00.36.08:764][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainLevel_BuiltData6BCC4ADF44004E7EB982E4B077255BF3.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel_BuiltData.uasset'
+[2020.12.09-00.36.08:878][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Maps/MainLevel_BuiltData" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel_BuiltData.uasset" SILENT=true
+[2020.12.09-00.36.09:027][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainLevel_BuiltDataB74B2C394159C97A901A37B902B8C8CD.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel_BuiltData.uasset'
+[2020.12.09-00.36.09:042][303]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.36.09:042][303]LogContentValidation: Display: Validating World /Game/GameJam/Maps/MainLevel.MainLevel
+[2020.12.09-00.36.09:042][303]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GameJam/Maps/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.12.09-00.36.17:550][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.09-00.36.17:550][791]LogWorld: BeginTearingDown for /Game/GameJam/Maps/UEDPIE_0_MainLevel
+[2020.12.09-00.36.17:551][791]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.36.17:552][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.09-00.36.17:587][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.09-00.36.17:590][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.09-00.36.17:607][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.09-00.36.17:628][791]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026CE268CCC0), frame # 27791
+[2020.12.09-00.36.17:628][791]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026CE42A9A00), frame # 27791
+[2020.12.09-00.36.17:631][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.12.09-00.36.17:664][792]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.12.09-00.36.38:517][863]LogMetaData: Removing '/Game/GameJam/Widget/MainMenu.MainMenu_C' ref from Metadata '/Game/Widget/MainMenu.PackageMetaData'
+[2020.12.09-00.36.38:517][863]LogMetaData: Removing '/Game/GameJam/Widget/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Widget/MainMenu.PackageMetaData'
+[2020.12.09-00.36.38:517][863]LogMetaData: Removing '/Game/GameJam/Widget/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Widget/MainMenu.PackageMetaData'
+[2020.12.09-00.36.38:517][863]LogMetaData: Removing '/Game/GameJam/Widget/MainMenu.MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Widget/MainMenu.PackageMetaData'
+[2020.12.09-00.36.38:517][863]LogMetaData: Removing '/Game/GameJam/Widget/MainMenu.SKEL_MainMenu_C:PreConstruct' ref from Metadata '/Game/Widget/MainMenu.PackageMetaData'
+[2020.12.09-00.36.38:517][863]LogMetaData: Removing '/Game/GameJam/Widget/MainMenu.SKEL_MainMenu_C:Construct' ref from Metadata '/Game/Widget/MainMenu.PackageMetaData'
+[2020.12.09-00.36.38:517][863]LogMetaData: Removing '/Game/GameJam/Widget/MainMenu.SKEL_MainMenu_C:Tick' ref from Metadata '/Game/Widget/MainMenu.PackageMetaData'
+[2020.12.09-00.36.38:517][863]LogMetaData: Removing '/Game/GameJam/Widget/MainMenu.SKEL_MainMenu_C:BndEvt__QuitB_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Widget/MainMenu.PackageMetaData'
+[2020.12.09-00.36.38:517][863]LogMetaData: Removing '/Game/GameJam/Widget/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/Widget/MainMenu.PackageMetaData'
+[2020.12.09-00.36.38:547][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Widget/MainMenu" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Widget/MainMenu.uasset" SILENT=true
+[2020.12.09-00.36.38:661][863]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainMenuE6D4133243B815DA902E868FEB6E4327.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Widget/MainMenu.uasset'
+[2020.12.09-00.36.38:737][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/MainMenu" FILE="D:/2020/GameJam/ThroughtheAges/Content/Widget/MainMenu.uasset" SILENT=true
+[2020.12.09-00.36.38:802][863]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainMenuAF8EE89B40A2EF34B29DB49A061A8749.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/Widget/MainMenu.uasset'
+[2020.12.09-00.36.38:950][863]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.36.38:950][863]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameJam/Widget/MainMenu.MainMenu
+[2020.12.09-00.36.38:950][863]LogContentValidation: Display: Validating ObjectRedirector /Game/Widget/MainMenu.MainMenu
+[2020.12.09-00.36.38:950][863]LogContentValidation: Display: Validating ObjectRedirector /Game/Widget/MainMenu.Default__MainMenu_C
+[2020.12.09-00.36.38:950][863]LogContentValidation: Display: Validating ObjectRedirector /Game/Widget/MainMenu.MainMenu_C
+[2020.12.09-00.37.06:066][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.12.09-00.37.09:298][272]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.09-00.37.11:033][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.12.09-00.37.12:723][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Maps/MainLevel" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.09-00.37.12:773][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.12.09-00.37.13:136][451]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainLevel21A4FB39472BEEE3037AE587AF0B5324.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel.umap'
+[2020.12.09-00.37.13:227][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Maps/MainLevel_BuiltData" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel_BuiltData.uasset" SILENT=true
+[2020.12.09-00.37.13:395][451]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainLevel_BuiltDataD03D285A40B259CBB21D82B264B5BC26.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel_BuiltData.uasset'
+[2020.12.09-00.37.13:415][451]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.37.13:415][451]LogContentValidation: Display: Validating World /Game/GameJam/Maps/MainLevel.MainLevel
+[2020.12.09-00.37.13:415][451]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GameJam/Maps/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.12.09-00.37.20:337][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.12.09-00.37.21:378][796]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.09-00.37.26:976][100]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameJam/Maps/MainMenu.MainMenu
+[2020.12.09-00.37.26:995][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.12.09-00.37.26:996][100]Cmd: MAP LOAD FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.09-00.37.26:996][100]LightingResults: New page: Lighting Build
+[2020.12.09-00.37.26:996][100]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.12.09-00.37.27:000][100]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.37.27:000][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.09-00.37.27:000][100]MapCheck: New page: Map Check
+[2020.12.09-00.37.27:000][100]LightingResults: New page: Lighting Build
+[2020.12.09-00.37.27:020][100]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026D2137FD80), frame # 31100
+[2020.12.09-00.37.27:020][100]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026D1041C200), frame # 31100
+[2020.12.09-00.37.27:022][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.12.09-00.37.27:102][100]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.09-00.37.27:103][100]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.09-00.37.27:103][100]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026CE17BE200), frame # 31100
+[2020.12.09-00.37.27:103][100]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026CE487B880), frame # 31100
+[2020.12.09-00.37.27:122][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.12.09-00.37.27:991][100]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.09-00.37.27:993][100]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.283ms to complete.
+[2020.12.09-00.37.27:993][100]LogFileHelpers: Loading map 'MainMenu' took 0.997
+[2020.12.09-00.37.34:737][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.12.09-00.37.39:745][475]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.09-00.37.39:952][475]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Widget/MainMenu.MainMenu
+	Asset Name: /Game/Widget/MainMenu.Default__MainMenu_C
+	Asset Name: /Game/Widget/MainMenu.MainMenu_C
+[2020.12.09-00.37.42:022][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.12.09-00.37.42:042][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.12.09-00.37.42:060][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.12.09-00.38.10:663][130]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.12.09-00.38.25:182][900]LogMetaData: Removing '/Game/GameJam/Character/Anims/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.12.09-00.38.25:182][900]LogMetaData: Removing '/Game/GameJam/Character/Anims/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.12.09-00.38.25:182][900]LogMetaData: Removing '/Game/GameJam/Character/Anims/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.12.09-00.38.25:182][900]LogMetaData: Removing '/Game/GameJam/Character/Anims/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.12.09-00.38.25:182][900]LogMetaData: Removing '/Game/GameJam/Character/Anims/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.12.09-00.38.25:182][900]LogMetaData: Removing '/Game/GameJam/Character/Anims/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.12.09-00.38.25:182][900]LogMetaData: Removing '/Game/GameJam/Character/Anims/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.12.09-00.38.25:182][900]LogMetaData: Removing '/Game/GameJam/Character/Anims/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.12.09-00.38.25:182][900]LogMetaData: Removing '/Game/GameJam/Character/Anims/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.12.09-00.38.25:182][900]LogMetaData: Removing '/Game/GameJam/Character/Anims/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.12.09-00.38.25:937][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPerson_AnimBP" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_AnimBP.uasset" SILENT=true
+[2020.12.09-00.38.26:026][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPerson_AnimBP0BB9A5E54F3426A809E2F699FAE09D1B.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_AnimBP.uasset'
+[2020.12.09-00.38.26:150][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPerson_IdleRun_2D" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_IdleRun_2D.uasset" SILENT=true
+[2020.12.09-00.38.26:187][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPerson_IdleRun_2DAACBDE584F3966BC81AB95A11E4B7BE8.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_IdleRun_2D.uasset'
+[2020.12.09-00.38.26:306][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPerson_Jump" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_Jump.uasset" SILENT=true
+[2020.12.09-00.38.26:388][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPerson_JumpB2E5C9904AED4B484A767F92914E79B9.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_Jump.uasset'
+[2020.12.09-00.38.26:505][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonIdle" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonIdle.uasset" SILENT=true
+[2020.12.09-00.38.26:562][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonIdle81F26BA94AC59FE729B1AA99E1503435.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonIdle.uasset'
+[2020.12.09-00.38.26:687][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonJump_End" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_End.uasset" SILENT=true
+[2020.12.09-00.38.26:742][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonJump_End9ADF66E3447A33D9E1B38C8510CE6635.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_End.uasset'
+[2020.12.09-00.38.26:850][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonJump_Loop" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_Loop.uasset" SILENT=true
+[2020.12.09-00.38.26:931][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonJump_Loop67685ACC4321FA904C856BBA7DD47531.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_Loop.uasset'
+[2020.12.09-00.38.27:052][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonJump_Start" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_Start.uasset" SILENT=true
+[2020.12.09-00.38.27:141][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonJump_Start3CC3CC604428B2BCF9269EB55EB22C16.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_Start.uasset'
+[2020.12.09-00.38.27:252][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonRun" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonRun.uasset" SILENT=true
+[2020.12.09-00.38.27:303][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonRunC7F24A9246E7E34056AF1B87C76AA902.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonRun.uasset'
+[2020.12.09-00.38.27:429][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonWalk" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonWalk.uasset" SILENT=true
+[2020.12.09-00.38.27:479][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonWalk24629F954B463C7A28800E8EFE652A55.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonWalk.uasset'
+[2020.12.09-00.38.29:026][900]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP'
+[2020.12.09-00.38.29:027][900]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D'
+[2020.12.09-00.38.29:027][900]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump'
+[2020.12.09-00.38.29:027][900]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle'
+[2020.12.09-00.38.29:027][900]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End'
+[2020.12.09-00.38.29:027][900]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop'
+[2020.12.09-00.38.29:027][900]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start'
+[2020.12.09-00.38.29:028][900]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun'
+[2020.12.09-00.38.29:028][900]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk'
+[2020.12.09-00.38.29:069][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.12.09-00.38.29:094][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.12.09-00.38.29:111][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.09-00.38.29:128][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.09-00.38.29:146][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.12.09-00.38.29:162][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.12.09-00.38.29:180][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.12.09-00.38.29:197][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.12.09-00.38.29:215][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.12.09-00.38.29:249][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.12.09-00.38.29:268][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.12.09-00.38.29:336][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/TopDownCharacter" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownCharacter.uasset" SILENT=true
+[2020.12.09-00.38.29:408][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/TopDownCharacterE342E0CF4B6ED494B5155BBE9FDFEDC1.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownCharacter.uasset'
+[2020.12.09-00.38.29:519][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/SoldierEnemy" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/SoldierEnemy.uasset" SILENT=true
+[2020.12.09-00.38.29:623][900]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SoldierEnemy642C13944EFDB8931968CFBD0E438CF6.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/SoldierEnemy.uasset'
+[2020.12.09-00.38.29:769][900]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating AnimBlueprint /Game/GameJam/Character/Anims/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating BlendSpace1D /Game/GameJam/Character/Anims/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPerson_Jump.ThirdPerson_Jump
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonIdle.ThirdPersonIdle
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonRun.ThirdPersonRun
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonWalk.ThirdPersonWalk
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Character/Blueprint/TopDownCharacter.TopDownCharacter
+[2020.12.09-00.38.29:769][900]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Character/Blueprint/SoldierEnemy.SoldierEnemy
+[2020.12.09-00.40.24:734][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/T_ML_Rubber_Blue_01_D1BFC56CF4A3B03E72CA2CDA5E8ECB58F.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2020.12.09-00.40.24:918][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/T_ML_Rubber_Blue_01_NB8728A324F7A62918A04E3AB7818D041.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2020.12.09-00.40.25:008][603]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.12.09-00.40.25:104][603]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.12.09-00.40.25:104][603]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.12.09-00.40.25:104][603]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.12.09-00.40.25:104][603]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.12.09-00.40.25:203][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ML_GlossyBlack_Latex_UE43CB99C7D4D6BDD2B18EFE28B05A9E6C5.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2020.12.09-00.40.25:281][603]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.12.09-00.40.25:399][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ML_Plastic_Shiny_Beige85D8431742F6F97C9138CDAB3BC6A04F.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2020.12.09-00.40.25:486][603]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.12.09-00.40.25:650][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ML_Plastic_Shiny_Beige_LOGO3A0A79044FB34D2479E0D7B54D3F2D4E.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2020.12.09-00.40.25:834][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/T_ML_Aluminum01E8AAF7A349FE823F23AACC964338A2C3.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2020.12.09-00.40.26:009][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/T_ML_Aluminum01_N11A4CAD746484EA085478CA25ABCAB81.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2020.12.09-00.40.26:109][603]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.12.09-00.40.26:215][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ML_SoftMetal_UE4C6D8B5EE4912187E5C4A65802F1D6B65.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2020.12.09-00.40.26:335][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/ue4stuff/Materials/M_UE4Man_Body" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/M_UE4Man_Body.uasset" SILENT=true
+[2020.12.09-00.40.26:433][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_UE4Man_Body73947E0B47F878AB8BD78BBA20175024.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/M_UE4Man_Body.uasset'
+[2020.12.09-00.40.26:659][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/M_UE4Man_ChestLogo5B8D49F54A39E61B03437BBE7216949D.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Materials/M_UE4Man_ChestLogo.uasset'
+[2020.12.09-00.40.28:201][603]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2020.12.09-00.40.28:676][603]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2020.12.09-00.40.28:896][603]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2020.12.09-00.40.29:128][603]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2020.12.09-00.40.29:229][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D'
+[2020.12.09-00.40.29:230][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N'
+[2020.12.09-00.40.29:231][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4'
+[2020.12.09-00.40.29:232][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige'
+[2020.12.09-00.40.29:233][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO'
+[2020.12.09-00.40.29:234][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01'
+[2020.12.09-00.40.29:235][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N'
+[2020.12.09-00.40.29:237][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4'
+[2020.12.09-00.40.29:244][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/M_UE4Man_Body.M_UE4Man_Body'
+[2020.12.09-00.40.29:245][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo'
+[2020.12.09-00.40.29:302][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.12.09-00.40.29:330][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.12.09-00.40.29:355][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.09-00.40.29:380][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.12.09-00.40.29:404][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.09-00.40.29:427][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.09-00.40.29:452][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.09-00.40.29:475][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.09-00.40.29:508][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.12.09-00.40.29:539][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.12.09-00.40.29:590][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.12.09-00.40.29:627][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.12.09-00.40.29:791][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/SK_Mannequin" FILE="D:/2020/GameJam/ThroughtheAges/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" SILENT=true
+[2020.12.09-00.40.30:760][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SK_MannequinA100867F43A47C2239B737AD38389E94.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2020.12.09-00.40.31:385][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/UE4_Mannequin_Skeleton131FE6C946E0B0B35DCD1DA51CB44E19.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.12.09-00.40.31:645][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SK_Mannequin_PhysicsAssetC5B0E5B94230C6489D18B68FFC537FF9.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2020.12.09-00.40.31:731][603]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.12.09-00.40.31:770][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/ue4stuff/Mesh/SK_Mannequin" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Mesh/SK_Mannequin.uasset" SILENT=true
+[2020.12.09-00.40.32:235][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SK_Mannequin1F4935D0437A3377CECFF088FBEF2235.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Mesh/SK_Mannequin.uasset'
+[2020.12.09-00.40.32:671][603]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2020.12.09-00.40.33:103][603]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2020.12.09-00.40.33:103][603]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.12.09-00.40.33:181][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton'
+[2020.12.09-00.40.33:182][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset'
+[2020.12.09-00.40.33:192][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin'
+[2020.12.09-00.40.33:249][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.12.09-00.40.33:277][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.12.09-00.40.33:302][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.09-00.40.33:338][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.12.09-00.40.33:363][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.12.09-00.40.33:430][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonJump_Loop" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_Loop.uasset" SILENT=true
+[2020.12.09-00.40.33:529][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonJump_Loop9A0ECC0D4D3D61AF0DD7D7AAE77EADD6.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_Loop.uasset'
+[2020.12.09-00.40.33:533][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonJump_End" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_End.uasset" SILENT=true
+[2020.12.09-00.40.33:592][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonJump_End21DA4DE8414EE3FE1B1C64B7438A000D.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_End.uasset'
+[2020.12.09-00.40.33:596][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonIdle" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonIdle.uasset" SILENT=true
+[2020.12.09-00.40.33:666][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonIdle7D45F2A94E145CF8D0367EA41D7425CB.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonIdle.uasset'
+[2020.12.09-00.40.33:669][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPerson_Jump" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_Jump.uasset" SILENT=true
+[2020.12.09-00.40.33:756][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPerson_JumpCDEC6F7441A2C7933F32F09533CE8A0C.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_Jump.uasset'
+[2020.12.09-00.40.33:761][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPerson_IdleRun_2D" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_IdleRun_2D.uasset" SILENT=true
+[2020.12.09-00.40.33:822][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPerson_IdleRun_2D69C32D0E431A3F44344C928A09EC20CB.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_IdleRun_2D.uasset'
+[2020.12.09-00.40.33:895][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPerson_AnimBP" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_AnimBP.uasset" SILENT=true
+[2020.12.09-00.40.34:037][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPerson_AnimBP7E8CD7D74EC3E7153BE772BF787FDA5F.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPerson_AnimBP.uasset'
+[2020.12.09-00.40.34:115][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonWalk" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonWalk.uasset" SILENT=true
+[2020.12.09-00.40.34:184][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonWalkBF73B34B4A5C4AEA7D8C339C700FC61D.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonWalk.uasset'
+[2020.12.09-00.40.34:188][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonRun" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonRun.uasset" SILENT=true
+[2020.12.09-00.40.34:280][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonRunB422F3D646470C6AEC4A48BA1F657F1C.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonRun.uasset'
+[2020.12.09-00.40.34:286][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Anims/ThirdPersonJump_Start" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_Start.uasset" SILENT=true
+[2020.12.09-00.40.34:351][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/ThirdPersonJump_Start1C1869A34049061D0931DB88F7244190.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Anims/ThirdPersonJump_Start.uasset'
+[2020.12.09-00.40.34:395][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/TopDownCharacter" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownCharacter.uasset" SILENT=true
+[2020.12.09-00.40.34:536][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/TopDownCharacter341E14834DBFE8BEE0321BB94827F112.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/TopDownCharacter.uasset'
+[2020.12.09-00.40.34:654][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/Blueprint/SoldierEnemy" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/SoldierEnemy.uasset" SILENT=true
+[2020.12.09-00.40.34:771][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/SoldierEnemy05E437784ACC5CD41E19F8B3E6EC8B96.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/Blueprint/SoldierEnemy.uasset'
+[2020.12.09-00.40.35:325][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/ue4stuff/Textures/UE4_LOGO_CARD" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Textures/UE4_LOGO_CARD.uasset" SILENT=true
+[2020.12.09-00.40.35:379][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/UE4_LOGO_CARD925CFDF8485537A2531C9BA43D19E084.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Textures/UE4_LOGO_CARD.uasset'
+[2020.12.09-00.40.35:690][603]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.12.09-00.40.35:700][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/UE4_Mannequin__normals2FA76DB9463ED9A8248C96A1DB684B9B.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Textures/UE4_Mannequin__normals.uasset'
+[2020.12.09-00.40.35:899][603]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.09-00.40.35:939][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/UE4_Mannequin_MAT_MASKA3043FE91495840B67CE30D8991275A3C.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2020.12.09-00.40.36:035][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Character/ue4stuff/Textures/UE4Man_Logo_N" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Textures/UE4Man_Logo_N.uasset" SILENT=true
+[2020.12.09-00.40.36:094][603]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/UE4Man_Logo_N268B0BEB42C425C7F6D4908305890C42.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Character/ue4stuff/Textures/UE4Man_Logo_N.uasset'
+[2020.12.09-00.40.36:461][603]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.12.09-00.40.37:169][603]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.09-00.40.37:257][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD'
+[2020.12.09-00.40.37:258][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals'
+[2020.12.09-00.40.37:259][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA'
+[2020.12.09-00.40.37:259][603]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N'
+[2020.12.09-00.40.37:329][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.12.09-00.40.37:356][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.12.09-00.40.37:383][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.09-00.40.37:409][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.09-00.40.37:458][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.12.09-00.40.37:487][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.09-00.40.37:778][603]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating Texture2D /Game/GameJam/Character/ue4stuff/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating Texture2D /Game/GameJam/Character/ue4stuff/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating MaterialFunction /Game/GameJam/Character/ue4stuff/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating MaterialFunction /Game/GameJam/Character/ue4stuff/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating MaterialFunction /Game/GameJam/Character/ue4stuff/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating Texture2D /Game/GameJam/Character/ue4stuff/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating Texture2D /Game/GameJam/Character/ue4stuff/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating MaterialFunction /Game/GameJam/Character/ue4stuff/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating Material /Game/GameJam/Character/ue4stuff/Materials/M_UE4Man_Body.M_UE4Man_Body
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/GameJam/Character/ue4stuff/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating Skeleton /Game/GameJam/Character/ue4stuff/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating PhysicsAsset /Game/GameJam/Character/ue4stuff/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating SkeletalMesh /Game/GameJam/Character/ue4stuff/Mesh/SK_Mannequin.SK_Mannequin
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonIdle.ThirdPersonIdle
+[2020.12.09-00.40.37:778][603]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPerson_Jump.ThirdPerson_Jump
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating BlendSpace1D /Game/GameJam/Character/Anims/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating AnimBlueprint /Game/GameJam/Character/Anims/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonWalk.ThirdPersonWalk
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonRun.ThirdPersonRun
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating AnimSequence /Game/GameJam/Character/Anims/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Character/Blueprint/TopDownCharacter.TopDownCharacter
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Character/Blueprint/SoldierEnemy.SoldierEnemy
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating Texture2D /Game/GameJam/Character/ue4stuff/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating Texture2D /Game/GameJam/Character/ue4stuff/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating Texture2D /Game/GameJam/Character/ue4stuff/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA
+[2020.12.09-00.40.37:779][603]LogContentValidation: Display: Validating Texture2D /Game/GameJam/Character/ue4stuff/Textures/UE4Man_Logo_N.UE4Man_Logo_N
+[2020.12.09-00.40.38:227][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.09-00.40.38:227][605]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.09-00.40.38:227][605]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.09-00.40.38:627][617]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.09-00.41.16:107][828]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameJam/Maps/MainLevel.MainLevel
+[2020.12.09-00.41.16:127][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.12.09-00.41.16:132][828]Cmd: MAP LOAD FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.09-00.41.16:132][828]LightingResults: New page: Lighting Build
+[2020.12.09-00.41.16:132][828]LoadErrors: New page: Loading map: MainLevel.umap
+[2020.12.09-00.41.16:133][828]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.41.16:134][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.09-00.41.16:134][828]MapCheck: New page: Map Check
+[2020.12.09-00.41.16:134][828]LightingResults: New page: Lighting Build
+[2020.12.09-00.41.16:150][828]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026CE487B880), frame # 42828
+[2020.12.09-00.41.16:150][828]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026CE17BE200), frame # 42828
+[2020.12.09-00.41.16:152][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.12.09-00.41.16:401][828]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.09-00.41.16:401][828]LogAIModule: Creating AISystem for world MainLevel
+[2020.12.09-00.41.16:401][828]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026CE31B3C00), frame # 42828
+[2020.12.09-00.41.16:401][828]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026CCD71F4C0), frame # 42828
+[2020.12.09-00.41.16:404][828]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2020.12.09-00.41.16:426][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.12.09-00.41.16:521][828]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.09-00.41.16:522][828]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2020.12.09-00.41.16:522][828]LogFileHelpers: Loading map 'MainLevel' took 0.389
+[2020.12.09-00.42.21:605][282]LogSlate: Window 'Tutorials' being destroyed
+[2020.12.09-00.42.21:685][282]LogSlate: Window 'Tutorials' being destroyed
+[2020.12.09-00.42.45:954][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.12.09-00.42.51:078][530]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.09-00.42.51:664][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.12.09-00.42.51:683][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.12.09-00.42.51:700][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.12.09-00.42.51:716][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.12.09-00.42.51:749][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.12.09-00.42.51:767][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.09-00.44.59:289][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Shape_NarrowCapsule" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Shape_NarrowCapsule.uasset" SILENT=true
+[2020.12.09-00.44.59:384][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/Shape_NarrowCapsuleC86805C8474A15A204019CB506B13DC8.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Shape_NarrowCapsule.uasset'
+[2020.12.09-00.44.59:756][303]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule'
+[2020.12.09-00.44.59:803][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.12.09-00.44.59:835][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.12.09-00.44.59:853][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.12.09-00.44.59:936][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Sandbag" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Sandbag.uasset" SILENT=true
+[2020.12.09-00.44.59:985][303]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/Sandbag1F1657764F0644E0A409EA9A2D8DD627.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Sandbag.uasset'
+[2020.12.09-00.45.00:138][303]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.45.00:138][303]LogContentValidation: Display: Validating StaticMesh /Game/GameJam/Shape_NarrowCapsule.Shape_NarrowCapsule
+[2020.12.09-00.45.00:138][303]LogContentValidation: Display: Validating Blueprint /Game/GameJam/Sandbag.Sandbag
+[2020.12.09-00.45.03:532][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.12.09-00.45.36:308][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Maps/MainLevel" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.09-00.45.36:456][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.09-00.45.37:061][ 14]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainLevelC1EA476241AB4A45C6BC0EAE4D57307C.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel.umap'
+[2020.12.09-00.45.37:235][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Maps/MainLevel_BuiltData" FILE="D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel_BuiltData.uasset" SILENT=true
+[2020.12.09-00.45.37:552][ 14]LogSavePackage: Moving 'D:/2020/GameJam/ThroughtheAges/Saved/MainLevel_BuiltData36EDAE5F4642903E4DEC2198D1498F6C.tmp' to 'D:/2020/GameJam/ThroughtheAges/Content/GameJam/Maps/MainLevel_BuiltData.uasset'
+[2020.12.09-00.45.37:573][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.09-00.45.37:573][ 14]LogContentValidation: Display: Validating World /Game/GameJam/Maps/MainLevel.MainLevel
+[2020.12.09-00.45.37:573][ 14]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GameJam/Maps/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.12.09-00.45.38:787][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.12.09-00.45.50:731][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.12.09-00.45.51:138][620]LogSlate: Window 'ThroughtheAges - Unreal Editor' being destroyed
+[2020.12.09-00.45.51:318][621]Cmd: QUIT_EDITOR
+[2020.12.09-00.45.51:318][621]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.12.09-00.45.51:377][621]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.12.09-00.45.51:765][621]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.09-00.45.51:779][621]LogExit: Preparing to exit.
+[2020.12.09-00.45.51:881][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.12.09-00.45.51:973][621]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.51:975][621]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.51:977][621]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.51:978][621]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.51:980][621]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.51:982][621]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.51:984][621]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.51:986][621]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.51:987][621]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.51:989][621]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.51:990][621]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.52:013][621]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.09-00.45.52:084][621]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.09-00.45.52:085][621]LogExit: Editor shut down
+[2020.12.09-00.45.52:085][621]LogExit: Transaction tracking system shut down
+[2020.12.09-00.45.52:655][621]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000026CAA10D400), frame # 56621
+[2020.12.09-00.45.52:655][621]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026CAA072AC0), frame # 56621
+[2020.12.09-00.45.52:655][621]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026CAA0AE600), frame # 56621
+[2020.12.09-00.45.52:702][621]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026CCD71F4C0), frame # 56621
+[2020.12.09-00.45.52:702][621]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026CE31B3C00), frame # 56621
+[2020.12.09-00.45.52:729][621]LogExit: Object subsystem successfully closed.
+[2020.12.09-00.45.52:752][621]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.09-00.45.52:783][621]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (812)
+[2020.12.09-00.45.52:783][621]LogModuleManager: Shutting down and abandoning module Voice (810)
+[2020.12.09-00.45.52:783][621]LogModuleManager: Shutting down and abandoning module StatsViewer (808)
+[2020.12.09-00.45.52:783][621]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (806)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module TextureEditor (804)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module BlueprintGraph (802)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (800)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module SceneOutliner (798)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module AddContentDialog (796)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module WidgetCarousel (795)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module EditorWidgets (792)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module CollectionManager (790)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (788)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module FoliageEdit (786)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module LandscapeEditor (784)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module MeshPaintMode (782)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (780)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module ActorPickerMode (778)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (776)
+[2020.12.09-00.45.52:839][621]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (774)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module AutomationWorker (772)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module SteamVREditor (770)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module OculusMR (768)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module GooglePADEditor (766)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (764)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (762)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (760)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (758)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (756)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (754)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (752)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (750)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (748)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module WebMMedia (746)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (744)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (742)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module SequenceRecorder (741)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (738)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (736)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (734)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (732)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (730)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (728)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (726)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (724)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (722)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (720)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module PlanarCut (718)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module CharacterAI (716)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module TextureAlignMode (714)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module BspMode (712)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module PlacementMode (711)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module GeometryMode (708)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (706)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module SmartSnapping (704)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module SessionServices (702)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module MeshPaint (700)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module ViewportSnapping (698)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module ViewportInteraction (696)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module ClothPainter (694)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (693)
+[2020.12.09-00.45.52:840][621]LogModuleManager: Shutting down and abandoning module LogVisualizer (690)
+[2020.12.09-00.45.52:841][621]LogModuleManager: Shutting down and abandoning module IntroTutorials (688)
+[2020.12.09-00.45.52:841][621]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (687)
+[2020.12.09-00.45.52:841][621]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (684)
+[2020.12.09-00.45.52:841][621]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (682)
+[2020.12.09-00.45.52:841][621]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (680)
+[2020.12.09-00.45.52:841][621]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (679)
+[2020.12.09-00.45.53:260][621]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (676)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (674)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (672)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (670)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module TraceInsights (668)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module TraceServices (667)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (664)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (662)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module InputBindingEditor (660)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module MergeActors (658)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (656)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module LocalizationService (655)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module HardwareTargeting (652)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (650)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module UndoHistory (648)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module XmlParser (646)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module Blutility (644)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (642)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (641)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (638)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module SettingsEditor (636)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module ProjectLauncher (634)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module SessionFrontend (632)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module ProfilerClient (630)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module DeviceManager (628)
+[2020.12.09-00.45.53:261][621]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (627)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module AutomationController (624)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module AutomationWindow (622)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module Layers (620)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (618)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module DetailCustomizations (616)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module PackagesDialog (614)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (612)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module Persona (610)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (609)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module AnimGraph (607)
+[2020.12.09-00.45.53:293][621]LogModuleManager: Shutting down and abandoning module Kismet (604)
+[2020.12.09-00.45.53:299][621]LogModuleManager: Shutting down and abandoning module KismetWidgets (603)
+[2020.12.09-00.45.53:299][621]LogModuleManager: Shutting down and abandoning module GraphEditor (600)
+[2020.12.09-00.45.53:299][621]LogModuleManager: Shutting down and abandoning module StructViewer (598)
+[2020.12.09-00.45.53:299][621]LogModuleManager: Shutting down and abandoning module ClassViewer (596)
+[2020.12.09-00.45.53:299][621]LogModuleManager: Shutting down and abandoning module Toolbox (594)
+[2020.12.09-00.45.53:299][621]LogModuleManager: Shutting down and abandoning module ModuleUI (592)
+[2020.12.09-00.45.53:299][621]LogModuleManager: Shutting down and abandoning module OutputLog (590)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module GammaUI (588)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module Documentation (586)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module LiveCoding (584)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module LevelSequence (582)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (580)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module MovieScene (578)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (576)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module LauncherPlatform (574)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module AnalyticsET (572)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module PortalServices (570)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module PortalRpc (568)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module MessagingRpc (566)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (564)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module AudioMixerCore (563)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module AIModule (560)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module GameplayDebugger (559)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module AITestSuite (557)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module NavigationSystem (555)
+[2020.12.09-00.45.53:300][621]LogModuleManager: Shutting down and abandoning module ProfilerService (552)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module TaskGraph (550)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MegascansPlugin (548)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module ScreenshotTools (546)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module SynthesisEditor (544)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module Synthesis (542)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (540)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (538)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module OculusEditor (536)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module OculusInput (534)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (532)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module GooglePAD (530)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module EditableMesh (528)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module SQLiteSupport (526)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module DatabaseSupport (524)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (522)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module CableComponent (520)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module AudioCapture (518)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (517)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module AssetTags (514)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (512)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (510)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module AppleImageUtils (508)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module AndroidPermission (506)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (504)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (502)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module TemplateSequence (500)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (498)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (496)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (494)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (492)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (491)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (488)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (486)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MediaCompositing (484)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module ImgMedia (482)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (480)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (478)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (476)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (474)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (472)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (470)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (468)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module MeshConversion (466)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module DynamicMesh (464)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (462)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module GeometricObjects (460)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (458)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (457)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (454)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (452)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (450)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (448)
+[2020.12.09-00.45.53:506][621]LogModuleManager: Shutting down and abandoning module ChaosNiagara (446)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module FractureEditor (444)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (442)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module ChaosCloth (440)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module BackChannel (438)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (436)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module AutomationUtils (434)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module AlembicImporter (432)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module AlembicLibrary (431)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module GeometryCache (430)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (429)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (424)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (422)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (420)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module PluginBrowser (418)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (416)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (414)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (412)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module CurveEditorTools (410)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (408)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module CryptoKeys (406)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (404)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (402)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module UObjectPlugin (400)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (398)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (396)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (394)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (392)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module GitSourceControl (390)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module SourceControl (389)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (386)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (384)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (382)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (380)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (378)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (376)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (374)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module Paper2DEditor (372)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module SoundFields (370)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module SignificanceManager (368)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (366)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (364)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (360)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module SQLiteCore (358)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module ActorSequence (356)
+[2020.12.09-00.45.53:507][621]LogModuleManager: Shutting down and abandoning module UdpMessaging (354)
+[2020.12.09-00.45.53:608][621]LogModuleManager: Shutting down and abandoning module TcpMessaging (352)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (350)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (348)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (346)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (344)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (342)
+[2020.12.09-00.45.53:709][621]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (340)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (338)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (336)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (334)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapController (332)
+[2020.12.09-00.45.53:709][621]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (330)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module MagicLeapAR (328)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module AugmentedReality (327)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (324)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module Niagara (322)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module SignalProcessing (321)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module NiagaraEditor (319)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module NiagaraCore (316)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (314)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (312)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (310)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module FacialAnimation (308)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module DataValidation (306)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (304)
+[2020.12.09-00.45.53:709][621]LogModuleManager: Shutting down and abandoning module LevelEditor (303)
+[2020.12.09-00.45.53:710][621]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (302)
+[2020.12.09-00.45.53:710][621]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (300)
+[2020.12.09-00.45.53:710][621]LogModuleManager: Shutting down and abandoning module MainFrame (298)
+[2020.12.09-00.45.53:710][621]LogModuleManager: Shutting down and abandoning module HotReload (297)
+[2020.12.09-00.45.53:711][621]LogModuleManager: Shutting down and abandoning module ToolMenus (293)
+[2020.12.09-00.45.53:711][621]LogModuleManager: Shutting down and abandoning module TreeMap (291)
+[2020.12.09-00.45.53:711][621]LogModuleManager: Shutting down and abandoning module AnimationSharing (288)
+[2020.12.09-00.45.53:711][621]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (286)
+[2020.12.09-00.45.53:711][621]LogModuleManager: Shutting down and abandoning module Paper2D (284)
+[2020.12.09-00.45.53:711][621]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (282)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (280)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (278)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module PacketHandler (276)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module UMG (252)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module UMGEditor (251)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module MessageLog (249)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module MaterialEditor (247)
+[2020.12.09-00.45.53:713][621]LogModuleManager: Shutting down and abandoning module ContentBrowser (246)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (245)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module SlateReflector (238)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module Slate (236)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module SlateCore (234)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (232)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module UnrealEd (230)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module MRMesh (228)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (226)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (224)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module XAudio2 (222)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module Networking (220)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module Core (218)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module MovieSceneTools (216)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module CurveEditor (215)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module Sequencer (213)
+[2020.12.09-00.45.53:714][621]LogModuleManager: Shutting down and abandoning module EditorStyle (212)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module KismetCompiler (208)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module MeshBuilder (206)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module XGEController (182)
+[2020.12.09-00.45.53:715][621]LogXGEController: Cleaning working directory: C:/Users/Job/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module TargetPlatform (180)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (179)
+[2020.12.09-00.45.53:715][621]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (177)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (171)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (169)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (167)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (165)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (163)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (161)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module ImageWrapper (160)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (157)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (155)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (153)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (151)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (149)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (147)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (145)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (143)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (141)
+[2020.12.09-00.45.53:716][621]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (139)
+[2020.12.09-00.45.53:717][621]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (137)
+[2020.12.09-00.45.53:717][621]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (135)
+[2020.12.09-00.45.53:717][621]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (133)
+[2020.12.09-00.45.53:717][621]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (131)
+[2020.12.09-00.45.53:717][621]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (129)
+[2020.12.09-00.45.53:717][621]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (127)
+[2020.12.09-00.45.53:717][621]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.12.09-00.45.53:717][621]LogModuleManager: Shutting down and abandoning module Messaging (123)
+[2020.12.09-00.45.53:717][621]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (121)
+[2020.12.09-00.45.53:718][621]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (119)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (117)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module InputCore (114)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module Settings (112)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (110)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module ChaosSolvers (106)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (105)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module Chaos (102)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (100)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (99)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module AVEncoder (98)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (94)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module SteamVRInput (92)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module SteamVR (90)
+[2020.12.09-00.45.53:721][621]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module OculusHMD (88)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (86)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (84)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (82)
+[2020.12.09-00.45.53:721][621]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (78)
+[2020.12.09-00.45.53:722][621]LogModuleManager: Shutting down and abandoning module XMPP (73)
+[2020.12.09-00.45.53:722][621]LogModuleManager: Shutting down and abandoning module WebSockets (72)
+[2020.12.09-00.45.53:737][621]LogModuleManager: Shutting down and abandoning module HTTP (69)
+[2020.12.09-00.45.53:737][621]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.09-00.45.53:737][621]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA9F240CD-456A-F873-C10C-F7BBE893B8FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=b9cd87ee4e054652b7b824a3ddd0d9cf%7Ccf1da8b15d3f43acb031c7c69098e555%7C541cfbec-8dfa-4349-820c-c8400afe9767&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.12.09-00.45.53:742][621]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2020.12.09-00.45.53:743][621]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2020.12.09-00.45.53:745][621]LogModuleManager: Shutting down and abandoning module Media (63)
+[2020.12.09-00.45.53:746][621]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2020.12.09-00.45.53:746][621]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2020.12.09-00.45.53:746][621]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2020.12.09-00.45.53:746][621]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.12.09-00.45.53:746][621]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.12.09-00.45.54:219][621]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.12.09-00.45.54:219][621]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.12.09-00.45.54:219][621]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2020.12.09-00.45.54:219][621]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.12.09-00.45.54:219][621]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.12.09-00.45.54:219][621]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.12.09-00.45.54:219][621]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.09-00.45.54:219][621]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.12.09-00.45.54:219][621]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.12.09-00.45.54:220][621]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.09-00.45.54:220][621]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.09-00.45.54:220][621]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.09-00.45.54:220][621]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.09-00.45.54:222][621]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.09-00.45.54:222][621]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.12.09-00.45.54:229][621]LogD3D11RHI: Shutdown
+[2020.12.09-00.45.54:229][621]LogD3D11RHI: CleanupD3DDevice
+[2020.12.09-00.45.54:244][621]LogExit: Exiting.
+[2020.12.09-00.45.54:265][621]Log file closed, 12/08/20 19:45:54
